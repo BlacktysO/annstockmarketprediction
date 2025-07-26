@@ -11,7 +11,7 @@ Explore the use of a simple feedforward ANN model for regression tasks.
 Analyze how well the ANN generalizes and how accurately it can predict unseen data.
 
 📂 Dataset
-Source: Yahoo Finance
+Source: kaggle
 
 File used: EDELWEISSNS.csv
 
