@@ -104,12 +104,9 @@ Place the EDELWEISSNS.csv file in the root directory.
 Install the required packages:
 
 bash
-Copy
-Edit
+
 pip install pandas numpy matplotlib keras
+
 Run the script:
 
-bash
-Copy
-Edit
 python stock_prediction_ann.py
