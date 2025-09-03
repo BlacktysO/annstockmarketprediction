@@ -6,7 +6,7 @@ The goal of this project is to:
 
 Predict the next day's closing price of a stock based on historical data.
 
-Explore the use of a simple feedforward ANN model for regression tasks.
+Explore the use of a simple feedforward ANN model for regression tasks. 
 
 Analyze how well the ANN generalizes and how accurately it can predict unseen data.
 
